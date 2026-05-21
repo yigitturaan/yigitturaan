@@ -27,7 +27,11 @@ Statistics student at Middle East Technical University. Passionate about underst
  </a>
 </div>
 
+<br />
 
+<img align="center" width="35%" src="https://count.getloli.com/get/@:yigitturaan?theme=rule34">
+
+<br />
 <br />
 
 <div align="center">
