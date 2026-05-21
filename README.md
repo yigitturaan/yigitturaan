@@ -27,11 +27,7 @@ Statistics student at Middle East Technical University (METU). Passionate about 
  </a>
 </div>
 
-<br />
 
-<img src="https://komarev.com/ghpvc/?username=yigitturaan&style=flat-square&color=6c3baa&label=Profile+Views" alt="views" />
-
-<br />
 <br />
 
 <div align="center">
