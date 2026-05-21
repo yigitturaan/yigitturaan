@@ -8,7 +8,7 @@
 
 <samp>
 
-Statistics student at Middle East Technical University (METU). Passionate about understanding the world through data and building things at the intersection of blockchain, artificial intelligence, and data science. I learn best by shipping — currently exploring Web3 social experiments, on-chain prediction markets, and ML-driven analytics. Always hungry, always building.
+Statistics student at Middle East Technical University. Passionate about understanding the world through data and building things at the intersection of blockchain, artificial intelligence, and data science. I learn best by shipping — currently exploring Web3 social experiments, on-chain prediction markets, and ML-driven analytics. Always hungry, always building.
 
 <br />
 <br />
