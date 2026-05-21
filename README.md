@@ -1,5 +1,5 @@
 <div align="center">
- <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=a78bfa&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Hi+there%2C+I'm+Yi%C4%9Fit+%F0%9F%91%8B" alt="Typing SVG" />
+ <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=a78bfa&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Hi+there%2C+I'm+Yi.git" alt="Typing SVG" />
 </div>
 
 <div align="center" width="100%">
@@ -29,7 +29,7 @@ Statistics student at Middle East Technical University (METU). Passionate about 
 
 <br />
 
-<img align="center" width="35%" src="https://count.getloli.com/get/@:yigitturaan?theme=rule34">
+<img src="https://komarev.com/ghpvc/?username=yigitturaan&style=flat-square&color=6c3baa&label=Profile+Views" alt="views" />
 
 <br />
 <br />
