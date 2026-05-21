@@ -8,7 +8,7 @@
 
 <samp>
 
-Statistics student at Middle East Technical University. I ship across ecosystems — from Solana to Monad, Stellar to Farcaster. Building infra, agents, and experiments at the intersection of blockchain, AI, and data. If there's a chain, there's a project. Always hungry, always building.
+Statistics student at Middle East Technical University. I ship across ecosystems — from Solana to Monad, Stellar to Ethereum. Building infra, agents, and experiments at the intersection of blockchain, AI, and data. If there's a chain, there's a project. Always hungry, always building.
 
 <br />
 <br />
