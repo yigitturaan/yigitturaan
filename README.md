@@ -1,84 +1,81 @@
 <div align="center">
-
-```
-                    ██╗   ██╗██╗ ██████╗ ██╗████████╗
-                    ╚██╗ ██╔╝██║██╔════╝ ██║╚══██╔══╝
-                     ╚████╔╝ ██║██║  ███╗██║   ██║   
-                      ╚██╔╝  ██║██║   ██║██║   ██║   
-                       ██║   ██║╚██████╔╝██║   ██║   
-                       ╚═╝   ╚═╝ ╚═════╝ ╚═╝   ╚═╝   
-```
-
-**Statistics Student** @ METU &nbsp;|&nbsp; Building at the intersection of **Data**, **AI** & **Web3**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yigittrn/)
-[![X](https://img.shields.io/badge/@yigitpush-000000?style=flat&logo=x&logoColor=white)](https://x.com/yigitpush)
-[![Telegram](https://img.shields.io/badge/@yigitpush-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/yigitpush)
-
+ <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=a78bfa&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Hi+there%2C+I'm+Yi%C4%9Fit+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
----
+<div align="center" width="100%">
 
-### About Me
+### Statistics & Data | Web3 | AI
 
-I'm a Statistics student at **Middle East Technical University (METU)**, driven by curiosity and a hunger to build things that matter. I spend most of my time exploring how **data science**, **blockchain**, and **artificial intelligence** intersect — and what happens when you combine them.
+<samp>
 
-I believe the best way to learn is by shipping. So I build, break, and iterate.
+Statistics student at Middle East Technical University (METU). Passionate about understanding the world through data and building things at the intersection of blockchain, artificial intelligence, and data science. I learn best by shipping — currently exploring Web3 social experiments, on-chain prediction markets, and ML-driven analytics. Always hungry, always building.
 
-Currently focused on:
+<br />
+<br />
 
-- **Web3 & Blockchain** — dApps, prediction markets, on-chain social experiments
-- **AI & Machine Learning** — turning data into decisions
-- **Data Science & Analytics** — statistical modeling, visualization, making sense of noise
-- **Full-Stack Development** — bringing ideas to life end-to-end
-
----
-
-### Tech & Tools
+</samp>
 
 <div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Farcaster](https://img.shields.io/badge/Farcaster-8B5CF6?style=flat-square&logo=farcaster&logoColor=white)
-
+ <a href="https://www.linkedin.com/in/yigittrn/" target="_blank">
+  <img width="13%" src="https://img.shields.io/badge/LinkedIn%20-000000.svg?&style=flat&logo=linkedin&logoColor=white">
+ </a>
+ <a href="https://x.com/yigitpush" target="_blank">
+  <img width="7%" src="https://img.shields.io/badge/X%20-000000.svg?&style=flat&logo=x&logoColor=white">
+ </a>
+ <a href="https://t.me/yigitpush" target="_blank">
+  <img width="13%" src="https://img.shields.io/badge/Telegram%20-000000.svg?&style=flat&logo=telegram&logoColor=white">
+ </a>
 </div>
 
----
+<br />
 
-### Featured Project
+<img align="center" width="35%" src="https://count.getloli.com/get/@:yigitturaan?theme=rule34">
 
-<table>
-  <tr>
-    <td width="80" align="center">
-      <img src="https://raw.githubusercontent.com/yigitturaan/Crowd-oracle/main/public/eye-logo.png" width="60" />
-    </td>
-    <td>
-      <strong><a href="https://github.com/yigitturaan/Crowd-oracle">Crowd Oracle</a></strong><br/>
-      <sub>A social experiment as a Farcaster MiniApp — poses bold predictions to the crowd and asks: <em>"When no one truly knows, is the majority always right?"</em></sub><br/>
-      <sub>Next.js &middot; Supabase &middot; Farcaster &middot; Recharts &middot; Framer Motion</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### GitHub Stats
+<br />
+<br />
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yigitturaan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=06b6d4&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitturaan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img width="40%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=300&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Details" alt="Typing SVG" />
 </div>
 
----
+<details>
+  <summary style="display: block;"></summary>
+<br />
 
 <div align="center">
-  <sub>Always learning, always building. Let's connect.</sub>
+ <img width="55%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Language's+%26+Tool's" alt="Typing SVG" />
+ <br />
+<div align="center">
+<img width="55%" src="https://skillicons.dev/icons?i=ts,js,python,r,react,nextjs,tailwind,supabase,vercel,solidity,postgres,git&theme=dark&perline=6" alt="skills">
+</div>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+ <img width="55%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Github+Stat's" alt="Typing SVG" />
+<br />
+ <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=yigitturaan&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="49%" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitturaan&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true" width="41%" alt="langs" />
+ </div>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+ <img width="55%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Currently+Building" alt="Typing SVG" />
+<br />
+<br />
+   <a href="https://github.com/yigitturaan/Crowd-oracle">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yigitturaan&repo=Crowd-oracle&theme=midnight-purple&hide_border=true" width="49%" alt="Crowd Oracle" />
+   </a>
+</div>
+
+<br />
+
+</details>
+
 </div>
