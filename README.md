@@ -17,13 +17,15 @@ Statistics student at Middle East Technical University. I ship across ecosystems
 
 <div align="center">
  <a href="https://www.linkedin.com/in/yigittrn/" target="_blank">
-  <img width="13%" src="https://img.shields.io/badge/LinkedIn%20-000000.svg?&style=flat&logo=linkedin&logoColor=white">
+  <img height="28" src="https://img.shields.io/badge/LinkedIn%20-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
+ &nbsp;
  <a href="https://x.com/yigitpush" target="_blank">
-  <img width="7%" src="https://img.shields.io/badge/X%20-000000.svg?&style=flat&logo=x&logoColor=white">
+  <img height="28" src="https://img.shields.io/badge/X%20-000000.svg?&style=for-the-badge&logo=x&logoColor=white">
  </a>
+ &nbsp;
  <a href="https://t.me/yigitpush" target="_blank">
-  <img width="13%" src="https://img.shields.io/badge/Telegram%20-000000.svg?&style=flat&logo=telegram&logoColor=white">
+  <img height="28" src="https://img.shields.io/badge/Telegram%20-000000.svg?&style=for-the-badge&logo=telegram&logoColor=white">
  </a>
 </div>
 
