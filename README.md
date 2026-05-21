@@ -50,47 +50,6 @@ Statistics student at Middle East Technical University. I ship across ecosystems
 </div>
 </div>
 
-<br />
-<br />
-
-<div align="center">
- <img width="55%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Github+Stat's" alt="Typing SVG" />
-<br />
- <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=yigitturaan&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="49%" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitturaan&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true" width="41%" alt="langs" />
- </div>
-</div>
-
-<br />
-<br />
-
-<div align="center">
- <img width="55%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Building+Across+Ecosystems" alt="Typing SVG" />
-<br />
-<br />
- <div align="center">
-   <a href="https://github.com/yigitturaan/talos-protocol">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yigitturaan&repo=talos-protocol&theme=midnight-purple&hide_border=true" width="49%" alt="Talos Protocol" />
-   </a>
-   <a href="https://github.com/yigitturaan/Aegis">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yigitturaan&repo=Aegis&theme=midnight-purple&hide_border=true" width="49%" alt="Aegis" />
-   </a>
- </div>
- <div align="center">
-   <a href="https://github.com/yigitturaan/conductor">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yigitturaan&repo=conductor&theme=midnight-purple&hide_border=true" width="49%" alt="Conductor" />
-   </a>
-   <a href="https://github.com/yigitturaan/soroban-gaskit">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yigitturaan&repo=soroban-gaskit&theme=midnight-purple&hide_border=true" width="49%" alt="Soroban GasKit" />
-   </a>
- </div>
- <div align="center">
-   <a href="https://github.com/yigitturaan/Crowd-oracle">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yigitturaan&repo=Crowd-oracle&theme=midnight-purple&hide_border=true" width="49%" alt="Crowd Oracle" />
-   </a>
- </div>
-</div>
 
 <br />
 
